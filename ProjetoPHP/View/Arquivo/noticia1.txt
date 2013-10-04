@@ -1,0 +1,7 @@
+﻿O programador de computadores Dennis MacAlistair Ritchie,
+mais conhecido como Dennis Ritchie ou “dmr”, morreu aos 70 anos
+em sua residência nos Estados Unidos. Ritchie foi um dos criadores
+do sistema operacional Unix e da linguagem de programação C,
+recebendo pelas suas contribuições o prêmio Turing em 1983,
+a medalha nacional de tecnologia dos Estados Unidos em 1999
+e o Prêmio Japão para Informação e Comunicação em 2011.

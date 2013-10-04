@@ -1,0 +1,6 @@
+﻿Esta obra pretende oferecer a estudantes de engenharia e 
+ciências exatas em geral um texto sobre os fundamentos da
+programação de computadores. A intenção do livro, antes de
+explorar todas as potencialidades da linguagem C, é apresentar
+como construir programas complexos com poucas construções da linguagem.</p>
+             

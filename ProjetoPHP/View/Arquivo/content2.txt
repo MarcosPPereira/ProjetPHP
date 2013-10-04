@@ -1,0 +1,4 @@
+﻿Como o próprio nome diz, Universidade C é estruturado como
+um curso universitário em que o conteúdo é transmitido de maneira
+gradativa. Dessa forma, você aprende tudo o que é necessário para
+dominar uma das mais poderosas linguagens de programação existentes.             

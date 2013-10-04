@@ -1,0 +1,44 @@
+body{
+	background:#C0FFC0;
+}
+
+
+#topo h1{
+    border-bottom: 1px solid #069;
+    padding-left : 37px;
+    text-align : center;
+}
+
+
+#topo{
+	width:100%;
+	margin-bottom : 10px;
+	background:#FFFFC0;
+     	background-image : url(ESCOLA.JPG);
+    	background-repeat : no-repeat;
+    	background-position : left top;
+   	float : left;
+	text-align: center;
+}
+
+.apostila{
+
+	width:100%;
+	margin-bottom : 10px;
+	background:#FFFFC0;
+    background-image : url(ESCOLA.JPG);
+    background-repeat : no-repeat;
+    background-position : left top;
+    float : left;
+}
+
+#compras{
+	
+	width:100%;
+	margin-bottom : 10px;
+	background:#FFFFC0;
+    background-image : url(ESCOLA.JPG);
+    background-repeat : no-repeat;
+    background-position : left top;
+    float : left;
+}

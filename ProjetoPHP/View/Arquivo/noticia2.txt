@@ -1,0 +1,9 @@
+﻿O C++ é uma linguagem de programação  de nível médio,
+baseada na linguagem C. O desenvolvimento da linguagem começou 
+na década de 80, por Bjarne Stroustrup. O objetivo do desenvolvimento
+desta linguagem era melhorar uma versão do núcleo Unix.
+Para desenvolver a linguagem, foram acrecentados elementos de outras
+linguagens de vários níveis, na tentativa de criar uma linguagem
+com elementos novos, sem trazer problemas para a programação.
+No inicio do desenvolvimento, a linguagem usava um pré-processador,
+mais Stroustrup criou um compilador próprio, com novas caracteristicas.

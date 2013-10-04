@@ -1,0 +1,8 @@
+﻿Caracteres especiais de impressão:
+\a = Emite um beep.<BR>
+\n = Move o cursor próxima linha.
+\0 = Produz um caracterer nulo (NULL)
+\\ ou \' ou \" = Permite usar \, ", ' sem apontar erro de compilação.
+\xFF = Imprime um caractere conforme o seu número hexadecimal.
+// = Tudo escrito na mesma linha após // será considerado um comentário.
+/* = Inicia um bloco de comentário que pode levar varias linhas, é terminado com */

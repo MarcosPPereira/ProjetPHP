@@ -1,0 +1,5 @@
+﻿Esta obra cobre, de forma didática, a totalidade da Linguagem C, 
+desde os aspectos mais básicos até os aspectos mais avançados.
+Os assuntos são apresentados passo a passo com exemplos explicativos
+e com variações, de modo a tornarem-se acessíveis mesmo aos leitores
+sem qualquer experiência de programação.
