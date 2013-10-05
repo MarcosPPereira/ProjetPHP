@@ -1,0 +1,22 @@
+DESCRICAO DO PROJETO PHP
+
+TITULO: APRENDA LINGUAGEM C
+
+ESTRUTURA:
+
+ProjetoPHP |------>Model
+           |
+           |---->View
+
+
+BANCO DE DADOS:
+
+TIPO DO BANCO: MYSQL
+
+NOME DO BANCO: CURSOS
+
+TABELA:        APOSTILAS
+
+USUARIO:       ROOT
+
+SENHA:         123456

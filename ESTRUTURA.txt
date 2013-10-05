@@ -1,0 +1,45 @@
+DESCRICAO DO PROJETO PHP
+
+TITULO: APRENDA LINGUAGEM C
+
+ESTRUTURA:
+
+ProjetoPHP |------>Model
+           |
+           |---->View
+
+
+BANCO DE DADOS:
+
+TIPO DO BANCO: MYSQL
+
+NOME DO BANCO: CURSOS
+
+TABELA:        APOSTILAS
+
+USUARIO:       ROOT
+
+SENHA:         123456
+
+
+CAMPOS: 1 idApostila int(11)  AUTO_INCREMENT
+ 	2 apostila char(100)
+ 	3 synopsis text
+ 	4 year char(4)
+ 	5 price char(12)
+ 	6 registryDate date
+
+
+CODIGO NO MYSQL PARA CRIACAO DO BANCO E DA TABELA
+
+CREATE DATABASE CURSOS
+
+
+CREATE TABLE apostila
+(idApostilar INTEGER CONSTRAINT primarykey PRIMARY KEY,
+apostila CHAR (100),
+sysnopis TEXT (50)
+year TEXT (4),
+price CHAR(12),
+registryDate DATE;
+
